@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3>Who am I?🙋‍♀️</h3>
+<h3>About Me</h3>
 <ul>
 <li>I'm a graduate student pursuing Data Science at Rochester Institute of Technology, looking for internship opportunities in the data analytics, machine learning, artificial intelligence fields.</li>
 <li>Fascinated by data, how it interacts, and the behavior it represents.</li>
@@ -17,7 +17,7 @@
 </ul>
 <hr>
 
-<h3>My Skills 💻📈</h3>
+<h3>Skills 💻📈</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
