@@ -4,21 +4,20 @@
 <h3 align="left"><img src="https://komarev.com/ghpvc/?username=simplysuvi" alt="simplysuvi"></h3>
 
 
-<p>Currently pursuing Data Science as a graduate student at Rochester Institute of Technology.<br>
-Fascinated by data, how it interacts, and the behavior it represents.<br>
-Leveraging data analysis to identify patterns, detect key problems among outliers, and tell a valuable story to make a significant impact. ✨</p>
+<p>Leveraging data analysis to identify patterns, detect key problems among outliers, and tell a valuable story to make a significant impact. ✨</p>
 
 <hr>
 
 <h3>Who am I?🙋‍♀️</h3>
 <ul>
-<li>I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong>, looking for internship opportunities in the data analytics, machine learning, artificial intelligence fields.</li>
+<li>I'm a graduate student pursuing Data Science at Rochester Institute of Technology, looking for internship opportunities in the data analytics, machine learning, artificial intelligence fields.</li>
+<li>Fascinated by data, how it interacts, and the behavior it represents.</li>
 <li>Over 2 years of work experience in the Software/Web Development and Marketing industry.</li>
 <li>Pursuing singing as a non-tech passion; Verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi">here</a>.</li>
 </ul>
 <hr>
 
-<h3>My Skills include 💻📈</h3>
+<h3>My Skills 💻📈</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
