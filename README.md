@@ -10,10 +10,11 @@
 
 <h3>About Me</h3>
 <ul>
-<li>I'm a graduate student pursuing Data Science at Rochester Institute of Technology, looking for internship opportunities in the data analytics, machine learning, artificial intelligence fields.</li>
+<li>I'm a graduate student pursuing Data Science at Rochester Institute of Technology.</li>
+<li>Currently looking for summer internship opportunities in the data analytics, machine learning, artificial intelligence fields.</li>
 <li>Fascinated by data, how it interacts, and the behavior it represents.</li>
 <li>Over 2 years of work experience in the Software/Web Development and Marketing industry.</li>
-<li>Pursuing singing as a non-tech passion; Verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi">here</a>.</li>
+<li>Pursuing singing as a non-tech passion; Verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi">here</a>. 🎧</li>
 </ul>
 <hr>
 
@@ -41,7 +42,13 @@
         <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/Simplysuvi/">
-        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://codepen.io/simplysuvi">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/simplysuvi/">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
