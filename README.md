@@ -1,6 +1,6 @@
 <h1><strong>Hello, I'm Suvrat! 👋🏻</h1>
 
-<h3 align="left"><em>I like to solve problems using data, design delightful experiences for the web, and everything in between. 👨🏻‍💻 </em></h3>
+<h3 align="left"><em>I like to solve problems using data, design delightful experiences for the web, and everything in between.</em> 👨🏻‍💻</h3>
 <h3 align="left"><img src="https://komarev.com/ghpvc/?username=simplysuvi" alt="simplysuvi"></h3>
 
 
