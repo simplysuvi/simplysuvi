@@ -35,19 +35,19 @@
 
 <h3>Feel free to reach out to me 👇🏻</h3>
 <div>
-    <a href="https://www.linkedin.com/in/simplysuvi/">
+    <a href="https://www.linkedin.com/in/simplysuvi/" target="_blank">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Simplysuvi/">
+    <a href="https://twitter.com/Simplysuvi/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/Simplysuvi/">
+    <a href="https://github.com/Simplysuvi/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://codepen.io/simplysuvi">
+    <a href="https://codepen.io/simplysuvi" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/simplysuvi/">
+    <a href="https://www.instagram.com/simplysuvi/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
