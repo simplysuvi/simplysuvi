@@ -36,7 +36,7 @@
 <h3>Feel free to reach out to me 👇🏻</h3>
 <div>
     <a href="https://www.linkedin.com/in/simplysuvi/" target="_blank">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/Simplysuvi/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30px">
