@@ -11,7 +11,7 @@
 <h3>About Me</h3>
 <ul>
 <li>I'm a graduate student pursuing Data Science at Rochester Institute of Technology, NY.</li>
-<li>Currently seeking challenging internship and job opportunities in the data analytics, machine learning, artificial intelligence domains.</li>
+<li>Currently seeking challenging job opportunities in the data science, data analytics, machine learning, artificial intelligence domains.</li>
 <li>Fascinated by data, how it interacts, and the behavior it represents.</li>
 <li>Over 2 years of work experience in the Software/Web Development and Marketing industry.</li>
 <li>Pursuing singing as a non-tech passion; Verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi" target="_blank">here</a>. 🎧</li>
