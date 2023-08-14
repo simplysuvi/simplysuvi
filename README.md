@@ -53,10 +53,10 @@
 </div>
 <hr>
 <br>
-<div >
+<!-- <div >
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=simplysuvi&count_private=true&show_icons=true&theme=buefy" width="400px" alt="suvrat-jain">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysuvi&layout=compact&theme=buefy" width="350px" alt="suvrat-jain">
-</div>
+</div> -->
 
