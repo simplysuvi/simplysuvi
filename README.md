@@ -42,7 +42,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/Simplysuvi/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40px">
     </a>&nbsp;&nbsp;
     <a href="https://codepen.io/simplysuvi" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="30px">
