@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 <ul>
-<li>Data Science grad student at Rochester Institute of Technology, NY, who loves exploring how data shapes our world! 🌎</li>
+<li>Data Science Engineer at Rochester Institute of Technology, NY, who loves exploring how data shapes our world! 🌎</li>
 <li>On the hunt for my next data-driven adventure in AI, machine learning, and analytics. 🔍</li>
 <li>Fascinated by data, how it interacts, and the behavior it represents.</li>
 <li>Over 2 years of work experience in the Software/Web Development and Marketing industry.</li>
