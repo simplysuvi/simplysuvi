@@ -19,7 +19,7 @@
 <hr>
 
 <h3>Skills 💻📈</h3>
-<div style="cursor:None;">
+<div style="cursor:default; pointer-events:none;">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
