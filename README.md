@@ -1,6 +1,6 @@
 <h1><strong>Hello, I'm Suvrat! 👋🏻</h1>
 
-<h3 align="left"><em>I like to solve problems using data, design delightful experiences for the web, and everything in between.</em> 👨🏻‍💻</h3>
+<h3 align="left"><em>I like to solve problems using data, create seamless experiences that make a difference, and everything in between.</em> 👨🏻‍💻</h3>
 <h3 align="left"><img src="https://komarev.com/ghpvc/?username=simplysuvi" alt="simplysuvi"></h3>
 
 
@@ -10,10 +10,10 @@
 
 <h3>About Me</h3>
 <ul>
-<li>Data Science Engineer at Rochester Institute of Technology, NY, who loves exploring how data shapes our world! 🌎</li>
-<li>On the hunt for my next data-driven adventure in AI, machine learning, and analytics. 🔍</li>
-<li>Fascinated by data, how it interacts, and the behavior it represents.</li>
-<li>Over 2 years of work experience in the Software/Web Development and Marketing industry.</li>
+<li>Data Science & AI Specialist at DieselCore, leveraging machine learning, AI, and LLMs to solve real-world challenges 🚀</li>
+<li>Currently focused on LLM-powered chatbots, computer vision workflows, and custom Retrieval-Augmented Generation (RAG) pipelines.</li>
+<li>Passionate about exploring how data interacts with the world and understanding the behaviors it represents.</li>
+<li>3+ years of experience across Data Science, AIML, Software/Web Development, and Marketing industries.</li>
 <li>When I'm not crunching data, I'm hitting high notes as a verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi" target="_blank">here</a>. 🎧</li>
 </ul>
 <hr>
