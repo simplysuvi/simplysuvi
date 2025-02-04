@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 <ul>
-<li>Data Science & AI Specialist at DieselCore, leveraging machine learning, AI, and LLMs to solve real-world challenges 🚀</li>
+<li>Data Science & AI Engineer at DieselCore, leveraging machine learning, AI, and LLMs to solve real-world challenges 🚀</li>
 <li>Currently focused on LLM-powered chatbots, computer vision workflows, and custom Retrieval-Augmented Generation (RAG) pipelines.</li>
 <li>Passionate about exploring how data interacts with the world and understanding the behaviors it represents.</li>
 <li>3+ years of experience across Data Science, AIML, Software/Web Development, and Marketing industries.</li>
