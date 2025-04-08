@@ -19,37 +19,37 @@
 
 <br>
 
-<p align="center" style="font-size:1.1em;">
-  I transform complex data into meaningful insights, identifying patterns that others miss and creating experiences that make a difference.
+<p align="center" style="font-size:5em;">
+  <i>I move between worlds — tech, creativity, data, music — not because I have to, but because that's where the magic happens. I’m here to build things that matter and leave things better than I found them.</i>
 </p>
 
 <br>
 
 <h2 align="center">About Me</h2>
 
-<p align="center">I’ve always been drawn to the way things work beneath the surface—how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
+<p>I’ve always been drawn to the way things work beneath the surface—how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
 
 My work lives at the intersection of logic and creativity. I care deeply about technical precision, but also about the why behind it all. For me, solving a problem isn't just about writing the perfect line of code—it's about understanding the people, the context, and the impact.
 
 Whether I’m building an AI to streamline a warehouse, crafting a chatbot with a little swagger, or exploring new ways to combine vision and language models, I try to keep one thing constant: making technology feel more human.
 </p>
 
-<div align="center" style="background-color:#E0F2F1!important; padding:20px; border-radius:10px; margin:20px 0;">
-  <h3>Professional Life</h3>
-  <p>
-    Currently at <strong>DieselCore</strong>, I architect AI solutions focused on conversational systems, computer vision, and knowledge retrieval. With 3+ years spanning Data Science, AI/ML, Software Development, and Marketing, I bring diverse perspectives to every challenge.
-  </p>
-  
-  <h3>Beyond Work</h3>
-  <p>
-    When I'm not engineering solutions, I create music as a verified Spotify artist. This creative outlet complements my technical work—both involve recognizing patterns, whether in data or musical notes. I find that moving between these worlds enhances my ability to approach problems from unique angles.
-  </p>
-  
-  <h3>Philosophy</h3>
-  <p>
-    I'm driven by curiosity and a desire to understand how things work at a fundamental level. Whether exploring new machine learning techniques or experimenting with musical compositions, I'm constantly learning and pushing boundaries.
-  </p>
-</div>
+<br>
+
+<h2>Professional Life</h2>
+<p>
+  Currently at <strong>DieselCore</strong>, I architect AI solutions focused on conversational systems, computer vision, and knowledge retrieval. With 3+ years spanning Data Science, AI/ML, Software Development, and Marketing, I bring diverse perspectives to every challenge.
+</p>
+
+<h2>Beyond Work</h2>
+<p>
+  When I'm not engineering solutions, I create music as a verified Spotify artist. This creative outlet complements my technical work—both involve recognizing patterns, whether in data or musical notes. I find that moving between these worlds enhances my ability to approach problems from unique angles.
+</p>
+
+<h2>Philosophy</h2>
+<p>
+  I'm driven by curiosity and a desire to understand how things work at a fundamental level. Whether exploring new machine learning techniques or experimenting with musical compositions, I'm constantly learning and pushing boundaries.
+</p>
 
 <br>
 
