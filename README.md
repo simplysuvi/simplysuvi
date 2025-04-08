@@ -4,10 +4,10 @@
   <h1><strong>Data Science & AI Engineer</strong></h1>
   
   <p>
-    <a href="https://www.linkedin.com/in/simplysuvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-    <a href="https://twitter.com/Simplysuvi/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;
-    <a href="https://github.com/Simplysuvi/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-    <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+    <a href="https://www.linkedin.com/in/simplysuvi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+    <a href="https://twitter.com/Simplysuvi/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;
+    <a href="https://github.com/Simplysuvi/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+    <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   </p>
   
   <p style="font-style:italic; margin:20px 0;">
