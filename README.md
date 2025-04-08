@@ -1,62 +1,113 @@
-<h1><strong>Hello, I'm Suvrat! 👋🏻</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66B2A1,100:4A8C7C&height=200&section=header&text=Suvrat%20Jain&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<h3 align="left"><em>I like to solve problems using data, create seamless experiences that make a difference, and everything in between.</em> 👨🏻‍💻</h3>
-<h3 align="left"><img src="https://komarev.com/ghpvc/?username=simplysuvi" alt="simplysuvi"></h3>
-
-
-<p>Leveraging data analysis to identify patterns, detect key problems among outliers, and tell a valuable story to make a significant impact. ✨</p>
-
-<hr>
-
-<h3>About Me</h3>
-<ul>
-<li>Data Science & AI Engineer at DieselCore, leveraging machine learning, AI, and LLMs to solve real-world challenges 🚀</li>
-<li>Currently focused on LLM-powered chatbots, computer vision workflows, and custom Retrieval-Augmented Generation (RAG) pipelines.</li>
-<li>Passionate about exploring how data interacts with the world and understanding the behaviors it represents.</li>
-<li>3+ years of experience across Data Science, AIML, Software/Web Development, and Marketing industries.</li>
-<li>When I'm not crunching data, I'm hitting high notes as a verified Spotify artist - Listen to my tracks <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU?si=ZiYn7Mg7QjGGFXMN6Zb4Zw" alt="simplysuvi" target="_blank">here</a>. 🎧</li>
-</ul>
-<hr>
-
-<h3>Skills 💻📈</h3>
-<div style="cursor:default; pointer-events:none;">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <p style="font-size:1.2em;"><strong>Data Science & AI Engineer</strong></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/simplysuvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+    <a href="https://twitter.com/Simplysuvi/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;
+    <a href="https://github.com/Simplysuvi/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+    <a href="https://open.spotify.com/artist/0Qc2FzRFU7IeFUEYDijkCU"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+  </p>
+  
+  <p style="font-style:italic; margin:20px 0;">
+    Crafting solutions at the intersection of data and human experience.
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:66B2A1,100:4A8C7C&height=1" width="80%" />
 </div>
-<br>
-<hr>
 
-<h3>Feel free to reach out to me 👇🏻</h3>
-<div>
-    <a href="https://www.linkedin.com/in/simplysuvi/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Simplysuvi/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/Simplysuvi/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://codepen.io/simplysuvi" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/simplysuvi/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30px">
-    </a>&nbsp;&nbsp;
+<br>
+
+<p align="center" style="font-size:1.1em;">
+  I transform complex data into meaningful insights, identifying patterns that others miss and creating experiences that make a difference.
+</p>
+
+<br>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">I’ve always been drawn to the way things work beneath the surface—how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
+
+My work lives at the intersection of logic and creativity. I care deeply about technical precision, but also about the why behind it all. For me, solving a problem isn't just about writing the perfect line of code—it's about understanding the people, the context, and the impact.
+
+Whether I’m building an AI to streamline a warehouse, crafting a chatbot with a little swagger, or exploring new ways to combine vision and language models, I try to keep one thing constant: making technology feel more human.
+</p>
+
+<div align="center" style="background-color:#E0F2F1!important; padding:20px; border-radius:10px; margin:20px 0;">
+  <h3>Professional Life</h3>
+  <p>
+    Currently at <strong>DieselCore</strong>, I architect AI solutions focused on conversational systems, computer vision, and knowledge retrieval. With 3+ years spanning Data Science, AI/ML, Software Development, and Marketing, I bring diverse perspectives to every challenge.
+  </p>
+  
+  <h3>Beyond Work</h3>
+  <p>
+    When I'm not engineering solutions, I create music as a verified Spotify artist. This creative outlet complements my technical work—both involve recognizing patterns, whether in data or musical notes. I find that moving between these worlds enhances my ability to approach problems from unique angles.
+  </p>
+  
+  <h3>Philosophy</h3>
+  <p>
+    I'm driven by curiosity and a desire to understand how things work at a fundamental level. Whether exploring new machine learning techniques or experimenting with musical compositions, I'm constantly learning and pushing boundaries.
+  </p>
 </div>
-<hr>
-<br>
-<!-- <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=simplysuvi&count_private=true&show_icons=true&theme=buefy" width="400px" alt="suvrat-jain">
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysuvi&layout=compact&theme=buefy" width="350px" alt="suvrat-jain">
-</div> -->
 
+<br>
+
+<h2 align="center">Technologies</h2>
+
+<div align="center" style="background-color:#E0F2F1; padding:15px; border-radius:10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
+
+<br>
+
+<h2 align="center">Current Focus</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse:separate; border-spacing:15px; background:none;">
+    <tr>
+      <td align="center" style="background-color:#E8F5E9; border-radius:10px; padding:20px; width:30%;">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="30" height="30">
+        <h3>Conversational AI</h3>
+        <p>Building systems that understand context and nuance</p>
+      </td>
+      <td align="center" style="background-color:#E0F2F1; border-radius:10px; padding:20px; width:30%;">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="30" height="30">
+        <h3>Computer Vision</h3>
+        <p>Creating systems that see and understand the visual world</p>
+      </td>
+      <td align="center" style="background-color:#F1F8E9; border-radius:10px; padding:20px; width:30%;">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="30" height="30">
+        <h3>RAG Pipelines</h3>
+        <p>Developing knowledge systems that connect information in new ways</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center" style="background-color:#E0F2F1; padding:20px; border-radius:10px; margin:20px 0;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=simplysuvi&count_private=true&show_icons=true&hide_title=true&hide_border=true&bg_color=E0F2F1&icon_color=4A8C7C&text_color=333333&ring_color=66B2A1" width="49%" alt="GitHub Stats">
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66B2A1,100:4A8C7C&height=100&section=footer" width="100%" />
+</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=simplysuvi&style=flat&color=lightgrey" alt="Profile Views">
+</p>
