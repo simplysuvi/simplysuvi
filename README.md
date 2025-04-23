@@ -25,7 +25,7 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
 <p>I’ve always been drawn to the way things work beneath the surface—how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
 
