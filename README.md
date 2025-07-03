@@ -105,6 +105,14 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
 <h2 align="center">Lines of Code by Language</h2>
 
 <!--START_LANG_STATS-->
+| Language | LOC |
+|----------|-----|
+| Python | 424554 |
+| HTML | 19563 |
+| CSS | 17093 |
+| YAML | 1617 |
+| TypeScript | 965 |
+| SCSS | 84 |
 | Language | code |
 | ------------------------------------------------------------------------------- |  |
 | CSV | 2531484 |
