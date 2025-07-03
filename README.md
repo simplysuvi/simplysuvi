@@ -105,6 +105,29 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
 <h2 align="center">Lines of Code by Language</h2>
 
 <!--START_LANG_STATS-->
+| Language | code |
+| ------------------------------------------------------------------------------- |  |
+| CSV | 2531484 |
+| JSON | 2473273 |
+| JavaScript | 35374 |
+| XML | 29138 |
+| Markdown | 20670 |
+| HTML | 19563 |
+| CSS | 17093 |
+| Python | 9098 |
+| Jupyter | 415456 |
+| SVG | 2266 |
+| YAML | 1596 |
+| TypeScript | 965 |
+| Vuejs | 21 |
+| Text | 303 |
+| SCSS | 84 |
+| INI | 64 |
+| Bourne | 11 |
+| make | 32 |
+| Dockerfile | 23 |
+| TOML | 17 |
+| ------------------------------------------------------------------------------- |  |
 <!--END_LANG_STATS-->
 
 
