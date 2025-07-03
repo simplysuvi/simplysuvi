@@ -21,7 +21,7 @@ jobs:
         mkdir repos
         cd repos
         gh auth login --with-token < <(echo "${{ secrets.GH_PAT }}")
-        gh repo list suvratjoshi --limit 100 --json nameWithOwner,visibility --jq '.[] | select(.visibility != "archived") | .nameWithOwner' |
+        gh repo list simplysuvi --limit 100 --json nameWithOwner,visibility --jq '.[] | select(.visibility != "archived") | .nameWithOwner' |
         xargs -L1 gh repo clone
 
     - name: Count LOC per language
