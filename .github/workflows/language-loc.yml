@@ -24,9 +24,9 @@ jobs:
       run: |
         mkdir repos
         cd repos
-        echo "${GH_TOKEN}" | gh auth login --with-token
         gh repo list simplysuvi --limit 100 --json nameWithOwner,visibility --jq '.[] | select(.visibility != "archived") | .nameWithOwner' |
         xargs -L1 gh repo clone
+
 
     - name: Count LOC per language
       run: |
