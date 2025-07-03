@@ -102,6 +102,12 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
   </div>
 </div>
 
+<h2 align="center">Lines of Code by Language</h2>
+
+<!--START_LANG_STATS-->
+<!--END_LANG_STATS-->
+
+
 <br>
 
 <div align="center">
