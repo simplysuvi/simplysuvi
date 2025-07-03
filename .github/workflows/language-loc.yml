@@ -34,7 +34,30 @@ jobs:
 
     - name: Format cloc output into Markdown
       run: |
-        tail -n +3 cloc_report.txt | head -n -2 | awk '{printf "| %s | %s |\n", $1, $5}' > lang_table.md
+        echo "| Language | LOC |" > lang_table.md
+        echo "|----------|-----|" >> lang_table.md
+    
+        awk '
+          BEGIN {
+            langs["Python"] = "Python"
+            langs["Jupyter"] = "Python"
+            langs["Java"] = "Java"
+            langs["HTML"] = "HTML"
+            langs["CSS"] = "CSS"
+            langs["SCSS"] = "SCSS"
+            langs["YAML"] = "YAML"
+            langs["TypeScript"] = "TypeScript"
+          }
+          NR > 2 && $1 in langs {
+            lang = langs[$1]
+            loc[lang] += $5
+          }
+          END {
+            PROCINFO["sorted_in"] = "@val_num_desc"
+            for (l in loc) printf "| %s | %d |\n", l, loc[l]
+          }
+        ' cloc_report.txt >> lang_table.md
+
 
     - name: Update README with LOC stats
       run: |
