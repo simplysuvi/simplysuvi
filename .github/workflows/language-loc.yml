@@ -27,16 +27,17 @@ jobs:
         gh repo list simplysuvi --limit 100 --json nameWithOwner,visibility --jq '.[] | select(.visibility != "archived") | .nameWithOwner' |
         xargs -L1 gh repo clone
 
-
     - name: Count LOC per language
       run: |
         cd repos
-        cloc . --out=cloc_report.txt
-        tail -n +3 cloc_report.txt | head -n -2 | awk '{printf "| %s | %s |\n", $1, $5}' > ../lang_table.md
+        cloc . --out=../cloc_report.txt
+
+    - name: Format cloc output into Markdown
+      run: |
+        tail -n +3 cloc_report.txt | head -n -2 | awk '{printf "| %s | %s |\n", $1, $5}' > lang_table.md
 
     - name: Update README with LOC stats
       run: |
-        cd ..
         awk '/<!--START_LANG_STATS-->/ {print; system("cat lang_table.md"); next} /<!--END_LANG_STATS-->/ {print; next}1' README.md > README.tmp
         mv README.tmp README.md
 
