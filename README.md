@@ -20,7 +20,7 @@
 <br>
 
 <p align="center" style="font-size:5em;">
-  <i>I move between worlds — tech, creativity, data, music — not because I have to, but because that's where the magic happens. I’m here to build things that matter and leave things better than I found them.</i>
+  <i>I move between worlds - tech, creativity, data, music; not because I have to, but because that's where the magic happens. I’m here to build things that matter and leave things better than I found them.</i>
 </p>
 
 <br>
