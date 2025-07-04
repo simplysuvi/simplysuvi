@@ -27,7 +27,7 @@
 
 <h2>About Me</h2>
 
-<p>I’ve always been drawn to the way things work beneath the surface—how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
+<p>I’ve always been drawn to the way things work beneath the surface - how data can reveal patterns, stories, and sometimes even truths we didn’t know we were looking for. What started as curiosity turned into a purpose: building intelligent systems that don’t just process information, but make a real difference in how people interact with the world around them.
 
 My work lives at the intersection of logic and creativity. I care deeply about technical precision, but also about the why behind it all. For me, solving a problem isn't just about writing the perfect line of code—it's about understanding the people, the context, and the impact.
 
@@ -38,12 +38,14 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
 
 <h2>Professional Life</h2>
 <p>
-  Currently at <strong>DieselCore</strong>, I architect AI solutions focused on conversational systems, computer vision, and knowledge retrieval. With 3+ years spanning Data Science, AI/ML, Software Development, and Marketing, I bring diverse perspectives to every challenge.
+  Currently at <strong>DieselCore</strong>, I architect AI solutions focused on conversational systems, computer vision, and knowledge retrieval.
+  
+  With 3+ years spanning data science, software engineering, and applied machine learning, I bring a cross-functional lens to every challenge. I care about what works. And why it matters.
 </p>
 
 <h2>Beyond Work</h2>
 <p>
-  When I'm not engineering solutions, I create music as a verified Spotify artist. This creative outlet complements my technical work—both involve recognizing patterns, whether in data or musical notes. I find that moving between these worlds enhances my ability to approach problems from unique angles.
+  When I'm not engineering solutions, I create music as a verified Spotify artist. This creative outlet complements my technical work - both involve recognizing patterns, whether in data or musical notes. I find that moving between these worlds enhances my ability to approach problems from unique angles.
 </p>
 
 <h2>Philosophy</h2>
@@ -76,17 +78,17 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
       <td align="center" style="background-color:#E8F5E9; border-radius:10px; padding:20px; width:30%;">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="30" height="30">
         <h3>Conversational AI</h3>
-        <p>Building systems that understand context and nuance</p>
+        <p>Building systems that understand nuance, not just commands.</p>
       </td>
       <td align="center" style="background-color:#E0F2F1; border-radius:10px; padding:20px; width:30%;">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="30" height="30">
         <h3>Computer Vision</h3>
-        <p>Creating systems that see and understand the visual world</p>
+        <p>Teaching machines to see what matters.</p>
       </td>
       <td align="center" style="background-color:#F1F8E9; border-radius:10px; padding:20px; width:30%;">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="30" height="30">
         <h3>RAG Pipelines</h3>
-        <p>Developing knowledge systems that connect information in new ways</p>
+        <p>Connecting fragmented knowledge into fluid, intelligent answers.</p>
       </td>
     </tr>
   </table>
@@ -102,7 +104,7 @@ Whether I’m building an AI to streamline a warehouse, crafting a chatbot with 
   </div>
 </div>
 
-<h2>Lines of Code by Language</h2>
+<h2>Languages I’ve written the most in - and still writing</h2>
 
 <!--START_LANG_STATS-->
 | Language | LOC |
