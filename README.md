@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66B2A1,100:4A8C7C&height=200&section=header&text=Suvrat%20Jain&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <h1><strong>Data Science & AI Engineer</strong></h1>
+  <h1><strong>Data Scientist & AI/ML Engineer</strong></h1>
   
   <p>
     <a href="https://www.linkedin.com/in/simplysuvi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
